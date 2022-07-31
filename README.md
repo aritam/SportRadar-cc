@@ -10,6 +10,9 @@ There are two routes
 
 Enter two paramaeters : Player number and year of season, no spaces ex: 20142015
 
+![image](sc1.png)
+
+
 * There are 12 tests included to ensure serializing.
 * You can run locally.
 
