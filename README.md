@@ -11,7 +11,7 @@ There are two routes
 For GET /api/PlayerDatas
 Enter two parameters : Player id and season, no spaces ex: 20142015
 
-ex: https://localhost:7068/api/PlayerDatas?id=3&season=20102011
+ex: https://localhost:7068/api/PlayerDatas?id=8476792&season=20102011
 
 For GET /api/TeamDatas 
 Enter two parameters : Team id and season, no spaces ex: 20142015
