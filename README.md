@@ -5,10 +5,17 @@ To build this solution, download or clone the project. You can build it in Rider
 A web browser will open using Swagger as a UI to showcase results. 
 
 There are two routes
-* GET PlayerDatas
-* GET TeamDatas
+* GET /api/PlayerDatas
+* GET /api/TeamDatas
 
-Enter two paramaeters : Player number and year of season, no spaces ex: 20142015
+For GET /api/PlayerDatas
+Enter two parameters : Player id and season, no spaces ex: 20142015
+ex: https://localhost:7068/api/PlayerDatas?id=3&season=20102011
+
+For GET /api/TeamDatas 
+Enter two parameters : Team id and season, no spaces ex: 20142015
+ex: https://localhost:7068/api/TeamDatas?id=5&season=20162017
+
 
 ![image](sc1.png)
 
