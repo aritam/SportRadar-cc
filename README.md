@@ -22,7 +22,7 @@ ex: https://localhost:7068/api/TeamDatas?id=5&season=20162017
 ![image](sc1.png)
 
 
-* There are 12 tests included to ensure serializing.
+* There are 12 tests included to ensure controller behavior. 
 * You can run locally.
 
 
